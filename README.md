@@ -89,6 +89,5 @@ To run the application locally without downloading external dependencies, you ca
 ## 📬 Contact Details
 
 *   **Email**: [Saniyakhanam863@gmail.com](mailto:Saniyakhanam863@gmail.com)
-*   **Phone**: +91 97434 79166
 *   **LinkedIn**: [linkedin.com/in/saniya-khanam13/](https://linkedin.com/in/saniya-khanam13/)
 *   **GitHub**: [github.com/saniyakhanam13](https://github.com/saniyakhanam13)
