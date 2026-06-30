@@ -36,7 +36,7 @@ portfolio/
 ## 🛠️ Technical Stack & Skills
 
 *   **Languages**: Java, Python, SQL
-*   **Web Technologies**: HTML5, CSS3, JavaScript (ES6+), Node.js, Django, Spring Framework
+*   **Web Technologies**: HTML5, CSS3, JavaScript, Node.js, Django, Spring Framework
 *   **Databases**: Oracle DBMS, SQLite, MySQL
 *   **Tools & Platforms**: VS Code, IntelliJ IDEA, Docker, Git, Linux, Windows
 
