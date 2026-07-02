@@ -38,7 +38,7 @@ portfolio/
 *   **Languages**: Java, Python, SQL
 *   **Web Technologies**: HTML5, CSS3, JavaScript, Node.js, Django, Spring Framework
 *   **Databases**: Oracle DBMS, SQLite, MySQL
-*   **Tools & Platforms**: VS Code, IntelliJ IDEA, Docker, Git, Linux, Windows
+*   **Tools & Platforms**: VS Code, IntelliJ IDEA, Git, Linux, Windows
 
 ---
 
